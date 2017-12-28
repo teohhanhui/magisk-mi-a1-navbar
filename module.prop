@@ -1,7 +1,7 @@
-id=template
-name=Template Module
-version=v1
-versionCode=1
-author=topjohnwu
-description=A short description
+id=mi-a1-navbar
+name=Mi A1 Navigation Bar
+version=v0.1
+versionCode=00010000
+author=teohhanhui
+description=Enables the navigation bar and disables the capacitive buttons
 minMagisk=1500
